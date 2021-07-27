@@ -1,0 +1,40 @@
+.top{
+    margin: 21px;
+  
+    width: 200px;
+    color: white;
+}
+.dBtn{
+    background-color: grey;
+  
+    color: white;
+    margin: 6px;
+    text-align: center;
+}
+#container{
+
+    margin-top: 12px;
+}
+
+.aBtn{
+    background-color: grey;
+    color: white;
+    margin: 4px;
+    border-radius: 2px solid black;
+}
+#delAll{
+
+    background-color: grey;
+    color: white;
+    margin: 3px;
+    border-radius: 2px solid black;
+
+}
+.eBtn{
+
+    background-color: grey;
+    color: white;
+
+    border-radius: 2px solid black;
+
+}
